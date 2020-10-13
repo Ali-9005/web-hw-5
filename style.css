@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align: center;
+}
+header {
+    display: inline-block;
+}
+header button {
+    margin: 0 auto;
+    background-color: #0b0b0b;
+    padding: 3px;
+    font-size: 20px;
+    color: white;
+}
+
+
+header input {
+    height: 30px;
+}
+header button:hover {
+    background-color: #292929;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    color:blue;
+}
